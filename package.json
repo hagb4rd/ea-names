@@ -1,0 +1,26 @@
+{
+  "name": "ea-names",
+  "version": "0.0.2",
+  "description": "resources, names, female, male",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-names.git"
+  },
+  "keywords": [
+    "resources",
+    "names"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-names/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-names#readme",
+  "dependencies": {
+    "sqlite": "^2.8.0"
+  }
+}
