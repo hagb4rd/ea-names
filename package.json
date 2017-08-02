@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/hagb4rd/ea-names#readme",
   "dependencies": {
-    "sqlite": "^2.8.0"
+    "sqlite": "^2.8.0",
+    "sqlite3": "^3.1.8"
   }
 }
