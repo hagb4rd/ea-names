@@ -1,6 +1,6 @@
 {
   "name": "ea-names",
-  "version": "0.0.7",
+  "version": "1.0.8",
   "description": "resources, names, female, male",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hagb4rd/ea-names#readme",
   "dependencies": {
-    "ea-lib": "0.0.13",
-    "sqlite3": "^3.1.11"
+    "ea-lib": "^1.0.20",
+    "sqlite3": "^3.1.13"
   }
 }
