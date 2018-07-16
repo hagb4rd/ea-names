@@ -1,6 +1,6 @@
 {
   "name": "ea-names",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "resources, names, female, male",
   "main": "index.js",
   "scripts": {
