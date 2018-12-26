@@ -1,4 +1,4 @@
-var {male, female} = require("./lib/names");
+var {male, female, males, females, db} = require("./lib/names");
 var {Person,Gender} = require("./lib/person");
 Person.male = ()=> Person.create({sex:"Male"});
 Person.female = () => Person.create({sex:"Female"});
@@ -8,5 +8,7 @@ module.exports = {
     Gender: Gender,
     male: male,
     female: female,
-    rand: require('ea-lib').rand
+    males: males,
+    females: females,
+    db: db
 }
