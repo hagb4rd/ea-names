@@ -1,6 +1,6 @@
 {
-  "name": "ea-names",
-  "version": "1.0.16",
+  "name": "ea-name",
+  "version": "1.0.17",
   "description": "resources, names, female, male",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,13 @@
     "resources",
     "names"
   ],
-  "author": "hagb4rd@gmail.com",
+  "author": "ridemyponey@yahoo.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hagb4rd/ea-names/issues"
   },
   "homepage": "https://github.com/hagb4rd/ea-names#readme",
   "dependencies": {
-    "ea-lib": "^1.0.63",
-    "sqlite3": "^4.0.4"
+    "sqlite3": "^5.0.2"
   }
 }
