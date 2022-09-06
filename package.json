@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "ea-name",
   "version": "1.0.18",
@@ -24,3 +25,31 @@
     "sqlite3": "^5.0.3"
   }
 }
+=======
+{
+  "name": "ea-name",
+  "version": "1.0.17",
+  "description": "resources, names, female, male",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-names.git"
+  },
+  "keywords": [
+    "resources",
+    "names"
+  ],
+  "author": "ridemyponey@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-names/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-names#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
+>>>>>>> 3b4e462bf34a0a056dbd3b01347c0ee5389c969e
